@@ -1,4 +1,4 @@
 
 # A simple command line hello world command line program
-
-print("Hello, World!")
+name = input("what is your name?\n\n")
+print("Hello, " + name + "!")
